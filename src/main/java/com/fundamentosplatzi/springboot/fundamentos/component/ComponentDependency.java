@@ -1,5 +1,5 @@
 package com.fundamentosplatzi.springboot.fundamentos.component;
 
-public interface ComponentsDependency {
+public interface ComponentDependency {
     void saludar();
 }
